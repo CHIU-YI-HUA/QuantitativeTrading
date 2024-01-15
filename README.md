@@ -3,6 +3,10 @@
 
 https://github.com/CHIU-YI-HUA/Q-Trade_A_Low_Code_Quantitative_Trading_Application_with_Q-learning/assets/107909311/868f9cc0-4e0f-4489-9b40-06eb6b85d32e
 
+
+https://github.com/CHIU-YI-HUA/Q-Trade_A_Low_Code_Quantitative_Trading_Application_with_Q-learning/assets/107909311/c5a5286c-560c-4947-b4d0-66bfed39bcee
+
+
 (https://drive.google.com/file/d/1nrMR9fpevemD3V_btbgca1GCUyuOx3tA/view?usp=drive_link)
 
 
