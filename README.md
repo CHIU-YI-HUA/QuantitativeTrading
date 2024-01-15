@@ -6,6 +6,6 @@ https://github.com/CHIU-YI-HUA/Q-Trade_A_Low_Code_Quantitative_Trading_Applicati
 (https://drive.google.com/file/d/1nrMR9fpevemD3V_btbgca1GCUyuOx3tA/view?usp=drive_link)
 
 
-Training.ipynb:
+###Training.ipynb:
 
 main.py:
