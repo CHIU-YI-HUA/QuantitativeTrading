@@ -3,7 +3,12 @@
 
 # Setup
 
+下載GUI code資料夾。
 有使用到 numpy 、 tensorflow(OS need to support windows long path) 、 yfinance 、 pandas 、 matplotlib.pyplot 、 numpyencoder 、 seaborn 、 pandas_datareader  等等模組，如本地沒有安裝須事先安裝。
+
+#程式使用方法
+
+執行main.py
 
 # API usage
 
@@ -70,7 +75,9 @@ load模型和測試
     
     
 ### CNN:(訊號燈)
-    
+
+在GUI資料夾中，main.py 和 project.py 以外的其他檔案都是 for CNN 預測
+
 先import py檔
     
         import train as TR
