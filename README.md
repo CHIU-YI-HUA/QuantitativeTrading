@@ -3,7 +3,7 @@
 
 # Data Availability
 
-使用 python yfinance 模組的yf.download()函數下載取得資料。
+使用 python yfinance 模組的yf.download()函數下載取得股票資料(收盤價)。
 
 # Setup
 
