@@ -38,7 +38,7 @@
         
 訓練和保存模型
             
-        agent.train(iterations=200, checkpoint=10, initial_money=initial_money)
+        agent.train(iterations=200, checkpoint=10, initial_money=10000)
         agent.save_model('save_model_directory/model.ckpt')
 建立新Agent物件做測試
     
@@ -56,7 +56,7 @@
 load模型和測試
     
         agent.load_model(openDirectory()+'/model.ckpt')
-        states_buy, states_sell, total_gains, invest = agent.buy(initial_money=initial_money)
+        states_buy, states_sell, total_gains, invest = agent.buy(initial_money=100000)
         
 產生結果圖片
     
