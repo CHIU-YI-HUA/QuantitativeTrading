@@ -139,7 +139,7 @@ load模型和測試
 
 restore 已有的模型
     
-        Model = TR.trainModel( 1.0, epsilon_min, maxiter, Beta, B , C, learning
+        Model = TR.trainModel( 1.0, epsilon_min, maxiter, Beta, B , C, learning_rate, P  )
         sess,saver, state, isTrain, rho_eta = Model.TestModel_ConstructGraph( W,W,FSize,PSize,PStride,NumAction )
         saver.restore( sess, 'DeepQ' )
 
