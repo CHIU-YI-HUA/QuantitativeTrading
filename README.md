@@ -22,7 +22,7 @@
             buy_trend = None,
             skip = skip,
             batch_size = batch_size,
-            train_MACD = train_MACD, #training data represent in MACD
+            train_MACD = train_MACD, #training data represented in MACD
             buy_MACD = None,
             MACD_enable = 0)    #  change MACD_enable to 1 if you want to use MACD
 
@@ -46,7 +46,7 @@
             skip = skip,
             batch_size = batch_size,
             train_MACD = None,
-            buy_MACD = buy_MACD, #test data represent in MACD
+            buy_MACD = buy_MACD, #test data represented in MACD
             MACD_enable = test_MACD_enable_var.get() )   #  change MACD_enable to 1 if you want to use MACD
 
 load模型和測試
