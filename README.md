@@ -27,9 +27,11 @@
             MACD_enable = 0)    #  change MACD_enable to 1 if you want to use MACD
 
 我們自己的一些參數
+
         window_size = 30
         skip = 1
         batch_size = 32
+        
 訓練和保存模型
             
         agent.train(iterations=200, checkpoint=10, initial_money=initial_money)
