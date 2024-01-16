@@ -1,6 +1,9 @@
 # 成果影片
 (https://drive.google.com/file/d/1nrMR9fpevemD3V_btbgca1GCUyuOx3tA/view?usp=drive_link)
 
+# Data Availability
+
+使用 python yfinance 模組的yf.download()函數下載取得股票資料(收盤價)。
 # Setup
 
 下載GUI code資料夾。
