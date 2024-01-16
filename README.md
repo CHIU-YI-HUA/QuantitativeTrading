@@ -30,7 +30,7 @@
             
         agent.train(iterations=200, checkpoint=10, initial_money=initial_money)
         agent.save_model('save_model_directory/model.ckpt')
-    建立新Agent物件做測試
+建立新Agent物件做測試
     
         agent = project.Agent(
             state_size = window_size,
