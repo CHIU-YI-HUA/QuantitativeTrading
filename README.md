@@ -1,10 +1,6 @@
 # 成果影片
 (https://drive.google.com/file/d/1nrMR9fpevemD3V_btbgca1GCUyuOx3tA/view?usp=drive_link)
 
-# Data Availability
-
-使用 python yfinance 模組的yf.download()函數下載取得股票資料(收盤價)。
-
 # Setup
 
 下載GUI code資料夾。
@@ -205,8 +201,8 @@ if data_source == "yfinance":
 **Training the model:**
 
 * You can set **MACD_enable** to 1 if you want to use MACD pointer to train the model, or set **MACD_enable** = 0 to only use stock price to train the model
-* During training you can see some current model performance
-*![performance](https://hackmd.io/_uploads/Hku0Y-VtT.png)
+* During training you can see some current model performance, the performance is counted based on the total money earn using the current model
+![performance](https://hackmd.io/_uploads/Hku0Y-VtT.png)
 * After training you can get the loss rate picture like below
 ![loss](https://hackmd.io/_uploads/ryvJcbVYa.png)
 
