@@ -14,7 +14,7 @@
 
 # API usage
 
-### project_py: 參考來源 https://colab.research.google.com/drive/1FzLCI0AO3c7A4bp9Fi01UwXeoc7BN8sW#scrollTo=-SBhFpqZiEfx
+### project_py: 參考來源 https://colab.research.google.com/drive/1FzLCI0AO3c7A4bp9Fi01UwXeoc7BN8sW#scrollTo=-SBhFpqZiEfx (Q-learning agent)
     
 先import py檔
     
