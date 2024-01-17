@@ -76,7 +76,7 @@ load模型和測試
         
     
     
-### CNN:(訊號燈)
+### CNN:(訊號燈) 參考來源 https://github.com/dzane17/stock-market-prediction-CNN-qnetwork
 
 在GUI資料夾中，main.py 和 project.py 以外的其他檔案都是 for CNN 預測
 
